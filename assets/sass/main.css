@@ -1,0 +1,19 @@
+body {
+  background-color: #058530;
+  color: #056485;
+}
+
+body #bg {
+  background-color: #058530;
+}
+
+body #bg .back {
+  color: #056485;
+}
+
+.message {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #333;
+}
+/*# sourceMappingURL=main.css.map */
